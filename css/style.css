@@ -1,0 +1,29 @@
+/* style.css */
+
+/* *{
+	outline: 2px solid red;
+} */
+
+.heading{
+	color: #8B008B;
+}
+
+#list1 .item{
+	font-family: "Times New Roman", "Georgia", "Garamond", serif;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.item.instruction{
+	background-color:#CCE5FF;
+	color: #ffffff;
+}
+
+#id2{
+	background-color: #FFCCE5;
+}
+
+#id3{
+	background-color: #FFE5CC;
+	font-family: "Courier New", monospace;
+}
